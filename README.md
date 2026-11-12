@@ -8,6 +8,7 @@ C++ solutions to LeetCode problems, with problem-solving practice.
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/Kamali6626/LeetCode-Solutions/tree/main/0258-add-digits/) | Easy |
 | [0263-ugly-number](https://github.com/Kamali6626/LeetCode-Solutions/tree/main/0263-ugly-number/) | Easy |
 | [0326-power-of-three](https://github.com/Kamali6626/LeetCode-Solutions/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/Kamali6626/LeetCode-Solutions/tree/main/0342-power-of-four/) | Easy |
@@ -44,4 +45,12 @@ C++ solutions to LeetCode problems, with problem-solving practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/Kamali6626/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/Kamali6626/LeetCode-Solutions/tree/main/0258-add-digits/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/Kamali6626/LeetCode-Solutions/tree/main/0258-add-digits/) | Easy |
 <!---LeetCode Topics End-->
