@@ -12,6 +12,7 @@ C++ solutions to LeetCode problems, with problem-solving practice.
 | [0263-ugly-number](https://github.com/Kamali6626/LeetCode-Solutions/tree/main/0263-ugly-number/) | Easy |
 | [0326-power-of-three](https://github.com/Kamali6626/LeetCode-Solutions/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/Kamali6626/LeetCode-Solutions/tree/main/0342-power-of-four/) | Easy |
+| [0367-valid-perfect-square](https://github.com/Kamali6626/LeetCode-Solutions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0509-fibonacci-number](https://github.com/Kamali6626/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Kamali6626/LeetCode-Solutions/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 ## Bit Manipulation
@@ -37,6 +38,7 @@ C++ solutions to LeetCode problems, with problem-solving practice.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kamali6626/LeetCode-Solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Kamali6626/LeetCode-Solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kamali6626/LeetCode-Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0367-valid-perfect-square](https://github.com/Kamali6626/LeetCode-Solutions/tree/main/0367-valid-perfect-square/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
