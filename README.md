@@ -15,6 +15,7 @@ C++ solutions to LeetCode problems, with problem-solving practice.
 | [0342-power-of-four](https://github.com/Kamali6626/LeetCode-Solutions/tree/main/0342-power-of-four/) | Easy |
 | [0367-valid-perfect-square](https://github.com/Kamali6626/LeetCode-Solutions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0509-fibonacci-number](https://github.com/Kamali6626/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
+| [2769-find-the-maximum-achievable-number](https://github.com/Kamali6626/LeetCode-Solutions/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Kamali6626/LeetCode-Solutions/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
