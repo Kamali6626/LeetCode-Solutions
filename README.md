@@ -32,6 +32,7 @@ C++ solutions to LeetCode problems, with problem-solving practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kamali6626/LeetCode-Solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0053-maximum-subarray](https://github.com/Kamali6626/LeetCode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Kamali6626/LeetCode-Solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kamali6626/LeetCode-Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0268-missing-number](https://github.com/Kamali6626/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
@@ -48,6 +49,7 @@ C++ solutions to LeetCode problems, with problem-solving practice.
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Kamali6626/LeetCode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0509-fibonacci-number](https://github.com/Kamali6626/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
@@ -70,4 +72,8 @@ C++ solutions to LeetCode problems, with problem-solving practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/Kamali6626/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Kamali6626/LeetCode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->
