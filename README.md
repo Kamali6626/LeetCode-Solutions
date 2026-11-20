@@ -35,6 +35,7 @@ C++ solutions to LeetCode problems, with problem-solving practice.
 | [0053-maximum-subarray](https://github.com/Kamali6626/LeetCode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Kamali6626/LeetCode-Solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kamali6626/LeetCode-Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0162-find-peak-element](https://github.com/Kamali6626/LeetCode-Solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0268-missing-number](https://github.com/Kamali6626/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Kamali6626/LeetCode-Solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Kamali6626/LeetCode-Solutions/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
@@ -44,6 +45,7 @@ C++ solutions to LeetCode problems, with problem-solving practice.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kamali6626/LeetCode-Solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Kamali6626/LeetCode-Solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kamali6626/LeetCode-Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0162-find-peak-element](https://github.com/Kamali6626/LeetCode-Solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0268-missing-number](https://github.com/Kamali6626/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/Kamali6626/LeetCode-Solutions/tree/main/0367-valid-perfect-square/) | Easy |
 ## Dynamic Programming
