@@ -37,6 +37,7 @@ C++ solutions to LeetCode problems, with problem-solving practice.
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kamali6626/LeetCode-Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/Kamali6626/LeetCode-Solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0268-missing-number](https://github.com/Kamali6626/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
+| [0414-third-maximum-number](https://github.com/Kamali6626/LeetCode-Solutions/tree/main/0414-third-maximum-number/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Kamali6626/LeetCode-Solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Kamali6626/LeetCode-Solutions/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 ## Binary Search
@@ -74,6 +75,7 @@ C++ solutions to LeetCode problems, with problem-solving practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/Kamali6626/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
+| [0414-third-maximum-number](https://github.com/Kamali6626/LeetCode-Solutions/tree/main/0414-third-maximum-number/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
