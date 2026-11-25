@@ -40,6 +40,7 @@ C++ solutions to LeetCode problems, with problem-solving practice.
 | [0268-missing-number](https://github.com/Kamali6626/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0414-third-maximum-number](https://github.com/Kamali6626/LeetCode-Solutions/tree/main/0414-third-maximum-number/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Kamali6626/LeetCode-Solutions/tree/main/1929-concatenation-of-array/) | Easy |
+| [2460-apply-operations-to-an-array](https://github.com/Kamali6626/LeetCode-Solutions/tree/main/2460-apply-operations-to-an-array/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Kamali6626/LeetCode-Solutions/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -64,6 +65,7 @@ C++ solutions to LeetCode problems, with problem-solving practice.
 | ------- | ------- |
 | [0258-add-digits](https://github.com/Kamali6626/LeetCode-Solutions/tree/main/0258-add-digits/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Kamali6626/LeetCode-Solutions/tree/main/1929-concatenation-of-array/) | Easy |
+| [2460-apply-operations-to-an-array](https://github.com/Kamali6626/LeetCode-Solutions/tree/main/2460-apply-operations-to-an-array/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -81,4 +83,8 @@ C++ solutions to LeetCode problems, with problem-solving practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Kamali6626/LeetCode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2460-apply-operations-to-an-array](https://github.com/Kamali6626/LeetCode-Solutions/tree/main/2460-apply-operations-to-an-array/) | Easy |
 <!---LeetCode Topics End-->
